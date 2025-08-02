@@ -1,2 +1,2 @@
 # Fariha-s-Portfolio
-# [Project-1: Customer-Data Segmentation]()
+# [Project-1: Customer-Data Segmentation](https://github.com/Fariha-Afrin008/Customer-Segmentation-Analysis)
