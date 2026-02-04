@@ -4,3 +4,4 @@
 ## [Project-3: Google vs Facebook Marketing Campaigns](https://github.com/Fariha-Afrin008/Ad-Campaign-Data-Analysis)
 ## [Project-4: Personal Budget Tracker](https://github.com/Fariha-Afrin008/Personal-Budget-Summary)
 ## [Project-5: Profit Analysis - [Power BI]](https://github.com/Fariha-Afrin008/Profit-Analysis)
+## [Project-6: Pizza Sales Analysis - [SQL + Power BI]]([(https://github.com/Fariha-Afrin008/Pizza_Sales_Analysis)
